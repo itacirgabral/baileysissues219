@@ -1,0 +1,26 @@
+{
+  "name": "baileysissues219",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "npx nodemon --inspect-brk=0.0.0.0:9229 --watch ./src/  ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itacirgabral/baileysissues219.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itacirgabral/baileysissues219/issues"
+  },
+  "homepage": "https://github.com/itacirgabral/baileysissues219#readme"
+}
